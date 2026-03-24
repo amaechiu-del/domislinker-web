@@ -1,0 +1,24 @@
+{
+  "name": "DomisLink International Services",
+  "short_name": "DomisLink",
+  "description": "DomisLink International Services – 19 Powerline, Asiwaju Dada, Lagos, Nigeria. Phone: +2349049837474",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#1b3d4f",
+  "theme_color": "#1b3d4f",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icons/domislink-icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/domislink-icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ]
+}
