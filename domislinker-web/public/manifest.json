@@ -1,0 +1,21 @@
+{
+  "name": "Domislinker Web",
+  "short_name": "Domislinker",
+  "description": "A Progressive Web App for Domislinker Web",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#317EFB",
+  "icons": [
+    {
+      "src": "icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
